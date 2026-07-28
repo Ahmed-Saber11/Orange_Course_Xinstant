@@ -61,7 +61,6 @@ An end-to-end exploratory data analysis, feature engineering, and business analy
 
 ##  How to Run
 
-### Kaggle (recommended)
 1. Open the [Students Performance in Exams dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) on Kaggle.
 2. Create a new notebook attached to this dataset.
 3. Upload `students_performance_analysis.ipynb` or copy its cells in.

@@ -1,8 +1,5 @@
 # From Data to Decisions: Student Performance Analytics
-An end-to-end exploratory data analysis, feature engineering, and business analytics project built on the [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) dataset.
-
-
-This project treats a classroom dataset as a real business problem: **how should a school district allocate a limited academic-support budget to close performance gaps as efficiently as possible?** It walks from raw, unexamined data through data quality auditing, feature engineering, hypothesis-driven visual analysis, and finally to a set of prioritized, actionable recommendations.
+An end-to-end exploratory data analysis, feature engineering, and business analytics project built on the [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) dataset. This project treats a classroom dataset as a real business problem: **how should a school district allocate a limited academic-support budget to close performance gaps as efficiently as possible?** It walks from raw, unexamined data through data quality auditing, feature engineering, hypothesis-driven visual analysis, and finally to a set of prioritized, actionable recommendations.
 
 ---
 

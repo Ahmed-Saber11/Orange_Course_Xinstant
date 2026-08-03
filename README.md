@@ -12,7 +12,7 @@ An end-to-end data analytics project: cleaning a raw marketing/product performan
 - KPI library across Marketing, Flash Sales, Bundling, and Customer categories
 - Two executive dashboards + full project documentation and presentation deck
 
-👉 See the [project README](./Marketing%20Performance%20Analysis/README.md) for full details.
+👉 See the [project README]([./Marketing%20Performance%20Analysis/README.md](https://github.com/Ahmed-Saber11/Orange_Course_Xinstant/blob/main/Student%20Performance%20Analytics/README.md)) for full details.
 
 ---
 

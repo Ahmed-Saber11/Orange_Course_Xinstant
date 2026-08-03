@@ -17,8 +17,6 @@
   - [5. Dashboards](#5-dashboards)
 - [Key Findings](#-key-findings)
 - [Business Recommendations](#-business-recommendations)
-- [Repository Structure](#-repository-structure)
-- [How to Use This Project](#-how-to-use-this-project)
 - [Limitations & Next Steps](#-limitations--next-steps)
 - [Deliverables](#-deliverables)
 

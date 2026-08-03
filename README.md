@@ -24,4 +24,4 @@ An exploratory data analysis project on student exam performance investigating h
 - Score distributions and comparisons across demographic and preparation factors
 - Visual, story-driven notebook with clear business/educational takeaways
 
-👉 See the [project README]([./Marketing%20Performance%20Analysis/README.md](https://github.com/Ahmed-Saber11/Orange_Course_Xinstant/blob/main/Student%20Performance%20Analytics/README.md) for full details.
+👉 See the [project README](https://github.com/Ahmed-Saber11/Orange_Course_Xinstant/blob/main/Student%20Performance%20Analytics/README.md) for full details.

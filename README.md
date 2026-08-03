@@ -14,7 +14,7 @@ An end-to-end data analytics project: cleaning a raw marketing/product performan
 
 👉 See the [project README](./Marketing%20Performance%20Analysis/README.md) for full details.
 
----./Marketing%20Performance%20Analysis/README.md)
+---
 
 ### [Student Performance Analysis](./Student%20Performance%20Analysis)
 An exploratory data analysis project on student exam performance investigating how factors like gender, parental level of education, test preparation, and lunch type relate to scores in math, reading, and writing.
